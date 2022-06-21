@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "269609849812",
+    "project_id": "easy-communication-c0c82",
+    "storage_bucket": "easy-communication-c0c82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269609849812:android:2a292932b2fe91117dfc41",
+        "android_client_info": {
+          "package_name": "com.example.easy_communication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269609849812-upl1sien727dkno2v41lfh08hqsul2sn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRdKv_Rk9Ryh3vQmtYqOOBWlzhz6UtFOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269609849812-upl1sien727dkno2v41lfh08hqsul2sn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
